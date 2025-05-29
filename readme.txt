@@ -60,7 +60,6 @@ The script will generate a new file named sanitized_config.txt in the same direc
 📄 Example
 Given a 'show tech' file with the following lines:
 
-nginx
 Copy
 Edit
 aaa new-model
@@ -69,7 +68,6 @@ interface GigabitEthernet0/1
  ip address 192.168.1.1 255.255.255.0
 The sanitized_config.txt output will be:
 
-nginx
 Copy
 Edit
 # aaa new-model
